@@ -12,7 +12,7 @@ https://github.com/datacenter/acitoolkit/blob/master/samples/aci-show-tenants.py
 """
 
 
-import sys
+#import sys
 import acitoolkit.acitoolkit as ACI
 
 # Credentials and information for the DevNet ACI Simulator Always-On Sandbox
