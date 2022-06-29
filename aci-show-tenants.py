@@ -11,8 +11,9 @@ Code sample based off the ACI-Toolkit Code sample
 https://github.com/datacenter/acitoolkit/blob/master/samples/aci-show-tenants.py     
 """
 
+#this is a test
 
-#import sys
+import sys
 import acitoolkit.acitoolkit as ACI
 
 # Credentials and information for the DevNet ACI Simulator Always-On Sandbox
