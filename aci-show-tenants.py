@@ -44,4 +44,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-#It's Hump Day!!
+#TGIF! It's Friday!!
